@@ -1,0 +1,150 @@
+🏗️ Program Flow
+
+Here's the complete flow of the application:
+
+                    Start
+
+                      │
+
+                      ▼
+
+                 Show Menu
+
+                      │
+
+                      ▼
+
+              Enter Folder Path
+
+                      │
+
+                      ▼
+
+            Does Folder Exist?
+
+              │             │
+
+             No            Yes
+
+              │             │
+
+      Show Error      Scan Folder
+
+                            │
+
+                            ▼
+
+                  Read Every File
+
+                            │
+
+                            ▼
+
+                Detect Extension
+
+                            │
+
+                            ▼
+
+          Which Category Does It Belong To?
+
+                            │
+
+                            ▼
+
+          Create Folder (if needed)
+
+                            │
+
+                            ▼
+
+                 Move the File
+
+                            │
+
+                            ▼
+
+                  Write to Log File
+
+                            │
+
+                            ▼
+
+             Show Final Summary
+
+                            │
+
+                            ▼
+
+                      Back to Menu
+
+
+📚 Lessons We'll Follow
+
+We're not jumping straight into coding.
+
+We'll build this exactly like we built your Password Manager.
+
+🟢 Phase 1 — Project Setup
+
+Lesson 1
+Project Structure
+
+↓
+
+Lesson 2
+Create Test Folder
+
+↓
+
+Lesson 3
+Understand pathlib
+
+🟡 Phase 2 — Working With Files
+
+List Files
+
+↓
+
+Read Extensions
+
+↓
+
+Detect Categories
+
+↓
+
+Create Folders
+
+🟠 Phase 3 — Organization
+
+Move Files
+
+↓
+
+Handle Duplicate Names
+
+↓
+
+Count Organized Files
+
+↓
+
+Display Summary
+
+
+🔵 Phase 4 — Professional Features
+
+Logging
+
+↓
+
+Configuration File
+
+↓
+
+Error Handling
+
+↓
+
+Final Cleanup
