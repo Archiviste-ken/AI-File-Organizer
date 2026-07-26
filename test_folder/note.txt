@@ -1,0 +1,25 @@
+📁 test_folder/
+
+This is our playground.
+
+We never test on our real Downloads folder.
+
+We'll create:
+
+test_folder/
+
+cat.jpg
+
+resume.pdf
+
+movie.mp4
+
+song.mp3
+
+notes.txt
+
+setup.exe
+
+Then let our program organize that.
+
+Safer.
