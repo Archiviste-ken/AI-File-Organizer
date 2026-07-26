@@ -1,6 +1,6 @@
 # 📂 AI File Organizer
 
-> *Because my Downloads folder deserves better.*
+> *Because my Downloads folder deserves better.* :)
 
 ---
 
