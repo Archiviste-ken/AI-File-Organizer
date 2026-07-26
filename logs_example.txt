@@ -1,0 +1,11 @@
+📄 logs.txt
+
+Automatically generated.
+
+Example:
+
+Moved photo.png -> Images
+
+Moved report.pdf -> Documents
+
+Moved song.mp3 -> Music
