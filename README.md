@@ -117,6 +117,6 @@ That's pretty cool.
 
 ---
 
-> *Lazy? Maybe.*
+> *Lazy? Maybe. (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)*
 >
 > *Efficient? Absolutely.* 🚀
