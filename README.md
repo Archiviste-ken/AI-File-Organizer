@@ -19,7 +19,6 @@ Resume.pdf
 photo.png
 movie.mp4
 song.mp3
-python.py
 setup.exe
 notes.txt
 vscode.zip
